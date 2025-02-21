@@ -1,4 +1,4 @@
-# Simple Text Generation
+# Simple Text Prediction
 
 ## Overview
 This project demonstrates how to build a simple text generation model using a neural network. The model learns patterns from a given corpus and generates new text in a similar style by predicting the next word based on a seed text.
