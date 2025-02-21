@@ -27,13 +27,6 @@ pip install -r requirements.txt
 - NumPy
 - Pandas
 
-## Example Output
-After training, given a seed text, the model may generate outputs like:
-
-**Input:** "Once upon a time, there was"
-
-**Generated Text:** "Once upon a time, there was a small village hidden in the deep forest..."
-
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements or additional features.
 
